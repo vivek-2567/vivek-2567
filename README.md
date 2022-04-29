@@ -3,10 +3,16 @@
 
 <p></p>
 
-<h3>Who am I?</h3>
+<p></p>
+
+<h3>Connect with me..</h3>
 <p align = "center">
 <a href="https://www.linkedin.com/in/raj-das-90aa04104/"><img src="https://github.com/vivek-2567/vivek-2567/blob/main/linkedin.png" width="40" /></a>
 <a href="mailto:vivekgoel0207@gmail.com"><img src="https://github.com/vivek-2567/vivek-2567/blob/main/google.png" width="40" /></a>
+
+<p></p>
+<p></p>
+<h3> Who am i??</h3>
 
 <p>A 18 year old Machine learning and Data science Enthusiast pursuing Bachelor of Technology degree in Computer Science and Engineering from VSSUT, Burla. I am a Technology Enthusiast with an avid interest in Machine Learning and Data Science. Apart from these, I love watching movies and spending time with friends. <p>
    
@@ -20,8 +26,8 @@
  
    
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Deep Learning, Competitive Coding, Data Structures and Algorithms.
-- 🤝 Open for collaborations in Deep Learning, Analytics and Data Science.
 - 😊 Willing to contribute in Open Source development projects.
+- 🤝 Open for collaborations in Deep Learning, Analytics and Data Science.
 - 👍 Looking for opportunities to join as an intern in Deep Learning projects.
 
 
