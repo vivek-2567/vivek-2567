@@ -7,7 +7,7 @@
 
 <h3>Connect with me..</h3>
 <p align = "center">
-<a href="https://www.linkedin.com/in/raj-das-90aa04104/"><img src="https://github.com/vivek-2567/vivek-2567/blob/main/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-goel-0207//"><img src="https://github.com/vivek-2567/vivek-2567/blob/main/linkedin.png" width="40" /></a>
 <a href="mailto:vivekgoel0207@gmail.com"><img src="https://github.com/vivek-2567/vivek-2567/blob/main/google.png" width="40" /></a>
 
 <p></p>
