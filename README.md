@@ -14,7 +14,7 @@
 <p></p>
 <h3> Who am i??</h3>
 
-<p>A 19 year old Machine learning and Data science Enthusiast pursuing Bachelor of Technology degree in Computer Science and Engineering from VSSUT, Burla. I am a Technology Enthusiast with an avid interest in Machine Learning and Data Science. Apart from these, I love watching movies and spending time with friends. <p>
+<p>A 20 year old Machine learning and Data science Enthusiast pursuing Bachelor of Technology degree in Computer Science and Engineering from VSSUT, Burla. I am a Technology Enthusiast with an avid interest in Machine Learning and Data Science. Apart from these, I love watching movies and spending time with friends. <p>
    
 
 <h3 align="left">Languages and Tools:</h3>
